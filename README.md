@@ -1,2 +1,4 @@
 # Python
 All projects about Python
+opencv文件夹是关于Python版本opencv的基本练习
+image_projects文件夹是关于Python版本opencv的项目，包括一些深度学习的内容
